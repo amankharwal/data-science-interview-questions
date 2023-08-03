@@ -1,0 +1,10 @@
+,CustomerID,Name,Email,Age,Gender,City,TotalSpent
+0,101,John Doe,johndoe@email.com,30.0,Male,New York,150.25
+1,102,Jane Smith,janesmith@email.com,,Female,London,75.6
+2,103,Michael Johnson,michael@example.com,25.0,Male,Los Angeles,200.0
+3,104,Susan Lee,susanlee@email.com,28.0,Female,,50.0
+4,105,Robert Williams,robert@email.com,32.0,Male,Sydney,
+5,106,Amy Chen,amychen@example.com,,Female,Paris,100.75
+6,107,David Kim,david@example.com,29.0,Male,Melbourne,120.5
+7,108,Emily Wang,emilywang@email.com,27.0,Female,,80.2
+8,109,James Brown,james@example.com,,Male,Berlin,180.3
